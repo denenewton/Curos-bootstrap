@@ -1,0 +1,22 @@
+{
+  "name": "curos-bootstrap",
+  "version": "1.0.0",
+  "description": "curso de bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrapp",
+    "html",
+    "css",
+    "..."
+  ],
+  "author": "Daniel dos Santos Araujo.",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
